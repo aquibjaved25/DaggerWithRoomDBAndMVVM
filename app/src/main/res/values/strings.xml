@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RoomDBSelf</string>
+    <string name="add_device">Add Device</string>
+    <string name="all_devices">All Devices</string>
+    <string name="issued_devices">Issued Devices</string>
+    <string name="assign_device">Assign Device</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="all_employees">All Employees</string>
+    <string name="device_name">Device Name</string>
+    <string name="total_inventory">Total Inventory</string>
+    <string name="available_inventory">Available Inventory</string>
+    <string name="employee_id">Employee Id</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="assigned_devices">Assigned Devices</string>
+    <string name="status">Status</string>
+    <string name="return_date">Return Date</string>
+</resources>
